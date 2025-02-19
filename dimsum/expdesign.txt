@@ -1,0 +1,7 @@
+sample_name	experiment_replicate	selection_id	selection_replicate	technical_replicate	pair1	pair2	cutadapt5First	cutadapt5Second
+input1	1	0			CN_alp_r1_F1_T0_R1_small.fastq.gz	CN_alp_r1_F1_T0_R2_small.fastq.gz	TTCATAGCTAATG	GGAACTCTGCCTAAATTTTC
+input2	2	0			CN_alp_r2_F1_T0_R1_small.fastq.gz	CN_alp_r2_F1_T0_R2_small.fastq.gz	TTCATAGCTAATG	GGAACTCTGCCTAAATTTTC
+output1	1	1	1		CN_alp_r1_F1_T1_R1_small.fastq.gz	CN_alp_r1_F1_T1_R2_small.fastq.gz	TTCATAGCTAATG	GGAACTCTGCCTAAATTTTC
+output2	1	1	2		CN_alp_r2_F1_T1_R1_small.fastq.gz	CN_alp_r2_F1_T1_R2_small.fastq.gz	TTCATAGCTAATG	GGAACTCTGCCTAAATTTTC
+output1copy	2	1	1		CN_alp_r1_F1_T1_R1_small.fastq.gz	CN_alp_r1_F1_T1_R2_small.fastq.gz	TTCATAGCTAATG	GGAACTCTGCCTAAATTTTC
+output2copy	2	1	2		CN_alp_r2_F1_T1_R1_small.fastq.gz	CN_alp_r2_F1_T1_R2_small.fastq.gz	TTCATAGCTAATG	GGAACTCTGCCTAAATTTTC
