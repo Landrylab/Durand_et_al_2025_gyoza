@@ -46,7 +46,7 @@ At this stage, if you are using Jupyter Lab Desktop, you can close the terminal 
 
 ## Usage
 
-The [main notebook](DiMSum_benchmark.ipynb) imports data processed by gyōza and DiMSum (toy dataset provided with [gyōza](https://github.com/durr1602/gyoza)). DiMSum's equivalent for the sample layout is this [experimental design file](dimsum/expdesign.txt).
+The [main notebook](DiMSum_benchmark.ipynb) imports data processed by gyōza v1.1.6 and DiMSum (toy dataset provided with [gyōza](https://github.com/durr1602/gyoza)). DiMSum's equivalent for the sample layout is this [experimental design file](dimsum/expdesign.txt).
 
 The following command line was used with DiMSum v1.3.2 to process the data:
 ```
